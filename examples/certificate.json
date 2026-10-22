@@ -1,0 +1,7 @@
+{
+  "rows": [
+    {"code":"CONC-01","contract_quantity":"120","previous_quantity":"40","claimed_quantity":"90","measured_quantity":"85","unit_rate":"115.50"},
+    {"code":"REBAR-01","contract_quantity":"18000","previous_quantity":"4000","claimed_quantity":"9500","measured_quantity":"9300","unit_rate":"0.92"}
+  ],
+  "retention":"0.05", "tax":"0.20", "previous_net":"9470.40"
+}
